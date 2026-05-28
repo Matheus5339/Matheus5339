@@ -27,11 +27,35 @@
 ### 🔹 DevOps Pipeline Lab
 API REST com FastAPI utilizando Docker, CI/CD com GitHub Actions e deploy automatizado.
 
+🔗 https://github.com/Matheus5339/devops-pipeline-lab
+
+---
+
 ### 🔹 Infrastructure Monitor
 Ambiente de monitoramento utilizando Prometheus, Grafana e Docker Compose.
 
+🔗 https://github.com/Matheus5339/infrastructure-monitor
+
+---
+
 ### 🔹 Cloud Deploy Automation
 Automação de deploys utilizando Bash, Docker e pipelines CI/CD.
+
+🔗 https://github.com/Matheus5339/cloud-deploy-automation
+
+---
+
+### 🔹 Automação de Análise de Dados em Excel
+Processamento automatizado de planilhas Excel utilizando Python para validação, consolidação e geração de relatórios.
+
+🔗 https://github.com/Matheus5339/automacao-excel-python
+
+---
+
+### 🔹 Organizador de Arquivos
+Automação para organização inteligente de arquivos por categorias utilizando Python.
+
+🔗 https://github.com/Matheus5339/organizador-de-arquivos
 
 ---
 
