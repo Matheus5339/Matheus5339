@@ -1,31 +1,28 @@
-# Olá, eu sou Matheus Pereira 👋
+<h1 align="center">Olá, eu sou Matheus Pereira 👋</h1>
 
-🎓 Estudante de Engenharia da Computação UCP  
-☁️ Focado em DevOps, Cloud Computing e Backend  
-🚀 Interesse em automação, infraestrutura, CI/CD e observabilidade
+<p align="center">
+  🎓 Computer Engineering Student <br>
+  ☁️ Focused on DevOps, Cloud Computing and Backend Development
+</p>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Python
-- Java
-- Docker
-- Git & GitHub
-- GitHub Actions
-- Linux
-- FastAPI
-- Bash
-- CI/CD
-- Prometheus
-- Grafana
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,docker,git,github,linux,bash" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🔹 DevOps Pipeline Lab
-API REST com FastAPI utilizando Docker, CI/CD com GitHub Actions e deploy automatizado.
+API REST utilizando FastAPI, Docker, CI/CD com GitHub Actions e deploy automatizado.
 
 🔗 https://github.com/Matheus5339/devops-pipeline-lab
 
@@ -39,23 +36,33 @@ Ambiente de monitoramento utilizando Prometheus, Grafana e Docker Compose.
 ---
 
 ### 🔹 Cloud Deploy Automation
-Automação de deploys utilizando Bash, Docker e pipelines CI/CD.
+Automação de deploy utilizando Bash, Docker e pipelines CI/CD.
 
 🔗 https://github.com/Matheus5339/cloud-deploy-automation
 
 ---
 
 ### 🔹 Automação de Análise de Dados em Excel
-Processamento automatizado de planilhas Excel utilizando Python para validação, consolidação e geração de relatórios.
+Processamento automatizado de planilhas Excel utilizando Python.
 
 🔗 https://github.com/Matheus5339/automacao-excel-python
 
 ---
 
 ### 🔹 Organizador de Arquivos
-Automação para organização inteligente de arquivos por categorias utilizando Python.
+Automação para organização inteligente de arquivos utilizando Python.
 
 🔗 https://github.com/Matheus5339/organizador-de-arquivos
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus5339&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5339&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
