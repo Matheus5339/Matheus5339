@@ -59,9 +59,9 @@ Automação para organização inteligente de arquivos utilizando Python.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus5339&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus5339&show_icons=true&theme=tokyonight" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5339&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus5339&layout=compact&theme=tokyonight" />
 </p>
 
 ---
