@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Pereira 👋
 
-🎓 Estudante de Engenharia da Computação  
+🎓 Estudante de Engenharia da Computação UCP  
 ☁️ Focado em DevOps, Cloud Computing e Backend  
 🚀 Interesse em automação, infraestrutura, CI/CD e observabilidade
 
