@@ -21,7 +21,7 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 pico-db
+### 🔹 Pico-db
 Motor de banco de dados relacional escrito do zero em Python — lexer, parser, executor e índice hash próprio, com testes e CI.
 
 🔗 https://github.com/Matheus5339/pico-db
