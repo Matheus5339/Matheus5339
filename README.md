@@ -21,6 +21,13 @@
 
 ## 📌 Projetos em Destaque
 
+### 🔹 pico-db
+Motor de banco de dados relacional escrito do zero em Python — lexer, parser, executor e índice hash próprio, com testes e CI.
+
+🔗 https://github.com/Matheus5339/pico-db
+
+---
+
 ### 🔹 DevOps Pipeline Lab
 API REST utilizando FastAPI, Docker, CI/CD com GitHub Actions e deploy automatizado.
 
