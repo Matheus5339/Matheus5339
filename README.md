@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,docker,git,github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,linux,bash" />
 </p>
 
 <p>
